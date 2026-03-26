@@ -1,5 +1,5 @@
 pwd=$(pwd)
-meta_data=${pwd}/table/circle_plot/circle_metadata.csv
+meta_data=${pwd}/table/circle_metadata.csv
 mark_region_meta=${pwd}/table/mark_region.csv
 pipeline_script=${pwd}/script/circle_plot_main.sh
 

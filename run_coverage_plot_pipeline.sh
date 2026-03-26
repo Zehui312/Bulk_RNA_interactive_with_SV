@@ -1,6 +1,6 @@
 pwd=$(pwd)
 pwd=$(pwd)
-circos_metadata=${pwd}/table/circle_plot/circle_metadata.csv
+circos_metadata=${pwd}/table/circle_metadata.csv
 marker_region_metadata=${pwd}/table/mark_region.csv
 pipeline_script=${pwd}/script/circle_plot_main.sh
 
