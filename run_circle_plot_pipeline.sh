@@ -4,6 +4,6 @@ mark_region_meta=${pwd}/table/mark_region.csv
 pipeline_script=${pwd}/script/circle_plot_main.sh
 
 mkdir -p log
-bsub -P coverage -J coverage -n 2 -R "rusage[mem=8GB]" -eo ./log/coverage.err -oo ./log/coverage.out "
+bsub -P circle -J circle -n 2 -R "rusage[mem=8GB]" -eo ./log/circle.err -oo ./log/circle.out "
 sh ${pipeline_script} -m ${meta_data} -r ${mark_region_meta}
 "
