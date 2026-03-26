@@ -1,0 +1,7 @@
+Reference,Region_label,Chromosom,start,end,type,Zoomin_left,Zoomin_right
+sample_1,R1,contig_1,573076,573077,TRA,5000,5000
+sample_1,R2,contig_1,1794074,1795972,INV,5000,5000
+sample_1,R3,contig_1,1805571,1841797,INV,5000,5000
+sample_1,R4,contig_1,2983649,2994370,DUP,5000,5000
+sample_1,R5,contig_1,3629384,3678555,DUP,5000,5000
+sample_1,R6,contig_1,4343866,4343867,TRA,5000,5000

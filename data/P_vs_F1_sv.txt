@@ -1,0 +1,6 @@
+contig_1 573076 573077 fill_color=black
+contig_1 1794074 1795972 fill_color=black
+contig_1 1805571 1841797 fill_color=black
+contig_1 2983649 2994370 fill_color=black
+contig_1 3629384 3678555 fill_color=black
+contig_1 4343866 4343867 fill_color=black
