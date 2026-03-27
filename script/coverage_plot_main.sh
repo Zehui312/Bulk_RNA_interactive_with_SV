@@ -1,6 +1,6 @@
 # Default values
-# meta_data=/research/groups/ma1grp/home/zyu/work_2026/RNA_seq_3_March/Bulk_RNA_interactive_with_SV/table/coverage_track_plot/coverage_metadata.csv
-# mark_region_meta=/research/groups/ma1grp/home/zyu/work_2026/RNA_seq_3_March/Bulk_RNA_interactive_with_SV/table/coverage_track_plot/mark_region.csv
+meta_data=/research/groups/ma1grp/home/zyu/work_2026/RNA_seq_3_March/re_anlysis/3_interactive_with_SV/JB251030/table/coverage_metadata.csv
+mark_region_meta=/research/groups/ma1grp/home/zyu/work_2026/RNA_seq_3_March/re_anlysis/3_interactive_with_SV/JB251030/table/mark_region.csv
 
 
 # Parse command line arguments
